@@ -1,4 +1,3 @@
-
 FROM ubuntu:disco
 
 RUN dpkg --add-architecture i386 && \
